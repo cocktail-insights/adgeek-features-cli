@@ -2,7 +2,7 @@
 
 This is a CLI tool for managing features of a Meteor app.
 
-### Installation
+## Installation
 
 ```bash
 $ npm install -g cocktail-insights/adgeek-feature-cli
@@ -15,7 +15,7 @@ $ yarn global add cocktail-insights/adgeek-feature-cli
 ```
 
 
-### Usage
+## Usage
 
 ```bash
 
