@@ -17,18 +17,18 @@ $ yarn global add cocktail-insights/adgeek-feature-cli
 
 ### Usage
 
-##### Creating a new Feature
-You can create a new feature by runnin the command below and following the prompt
-
 ```bash
-$ ag-feature new
-```
 
+  Usage: ag-feature <command>
 
-##### List all Features
-You can view the list available features in the app with the following command:
+  Commands:
 
-```bash
-$ ag-feature list
+    list  Show all available features
+    new   Create a new Feature
+
+  Examples:
+
+    $ ag-feature list
+
 ```
 
