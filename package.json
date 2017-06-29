@@ -1,7 +1,7 @@
 {
   "name": "adgeek-features-cli",
   "description": "CLI tool for creating new features in AdGeek",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "author": "Samuel Amoah <sa.am@programmer.net>",
   "keywords": [
     "cli",
