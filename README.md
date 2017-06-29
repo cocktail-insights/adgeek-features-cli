@@ -5,7 +5,7 @@ This is a CLI tool for managing features of a Meteor app.
 ## Installation
 
 ```bash
-$ npm install -g cocktail-insights/adgeek-feature-cli
+$ npm install -g adgeek-features-cli
 
 
 OR
